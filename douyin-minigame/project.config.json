@@ -1,0 +1,9 @@
+{
+  "appid": "在这里填你的AppID",
+  "projectname": "stack-tower",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "minified": true
+  }
+}
